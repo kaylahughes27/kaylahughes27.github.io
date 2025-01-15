@@ -1,2 +1,8 @@
 body{ 
-  background-color: pink;} 
+  background-color: pink;
+} 
+
+#sky{
+  position:relative;
+  left: 100px;
+}
